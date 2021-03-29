@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="TV Aberta", SBT
+
+https://5a1c76baf08c0.streamlock.net/sbtinterior/0sw1je4dml1k3scq0tft60b43l6tx9x7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="TV Aberta", Globo
+
+https://live-cm-al-10-37.video.globo.com/d/m/nl/s/hls-globo-bh/hls-globo-bh_1573/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/758467577403277352/825898536528642058/20210328_220447.png" group-title="TV Aberta", Loading
+
+https://akamai.gcp.br.cdn.booyah.live/hls/151073/34850987_480.m3u8
